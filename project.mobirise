@@ -54,13 +54,13 @@
             "bgVideoRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/embed/NA9IPA7qCb0?rel=0&amp;showinfo=0&autoplay=0&loop=0",
-              "rawUrl": "https://youtu.be/NA9IPA7qCb0?t=4",
+              "rawUrl": "https://youtu.be/NA9IPA7qCb0?t=8",
               "width": 1280,
               "height": 720
             },
             "overlay": true,
             "overlayColor": "#000",
-            "overlayOpacity": "0.6"
+            "overlayOpacity": "0.5"
           },
           "title": "Map Makers Of Krunker&nbsp;",
           "text": "We are a Discord Community for Krunker Map Makers",
