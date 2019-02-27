@@ -411,3 +411,6 @@ h6,
 .scrollToTop_wraper {
   display: none;
 }
+#form1-1 .form-control-label {
+  color: #232323;
+}
