@@ -75,61 +75,6 @@
           ],
           "_name": "header4",
           "_anchor": "header4-0"
-        },
-        {
-          "_inherit": "msg-box5",
-          "_styles": {
-            ".mbr-section-title, .lead p": {
-              "color": "#fff"
-            }
-          },
-          "_params": {
-            "showTitle": true,
-            "showText": true,
-            "showButtons": true,
-            "inverse": false,
-            "imageSize": 50,
-            "paddingTop": "6",
-            "paddingBottom": "6",
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mountains.jpg",
-            "parallax": true,
-            "bgColorRadio": false,
-            "bgColor": "#fff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": true,
-            "overlayColor": "#000",
-            "overlayOpacity": 0.5
-          },
-          "media": {
-            "image": {
-              "width": 1400,
-              "src": "@THEME_PATH@/components/_images/desert.jpg"
-            },
-            "video": {
-              "active": true,
-              "src": "https://www.youtube.com/embed/NA9IPA7qCb0?rel=0&showinfo=0&autoplay=0&loop=0",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-msg-box5",
-              "link": "",
-              "size": 250
-            }
-          },
-          "title": "Map Makers Of Krunker&nbsp;",
-          "text": "We are a Discord Community for Krunker Map Makers",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://discord.gg/3vVuv5X\" data-toolbar=\"-mbrBtnMove\">Join Our Discord</a> <a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"https://www.youtube.com/channel/UC6aSs2s5T0h_WVw1De3pFDg\" data-toolbar=\"-mbrBtnMove\">Check Out Our YouTube Channel</a>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box7",
-          "_anchor": "msg-box7-5"
         }
       ]
     }
