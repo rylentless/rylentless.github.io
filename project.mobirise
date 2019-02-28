@@ -108,8 +108,8 @@
             "video": {
               "active": true,
               "src": "https://www.youtube.com/embed/NA9IPA7qCb0?rel=0&showinfo=0&autoplay=0&loop=0",
-              "aspectratio": "4:3",
-              "autoplay": "on",
+              "aspectratio": "16:9",
+              "autoplay": false,
               "loop": false
             },
             "iconFont": {
