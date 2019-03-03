@@ -9,9 +9,9 @@
         "primaryColor": "#c0a375",
         "secondaryColor": "#bfcecb",
         "successColor": "#90a878",
-        "infoColor": "#2969b0",
+        "infoColor": "#7e9b9f",
         "warningColor": "#f3c649",
-        "dangerColor": "#d14841",
+        "dangerColor": "#f28281",
         "titleFont": "Montserrat",
         "subtitleFont": "Lora",
         "textFont": "Raleway",
@@ -19,24 +19,13 @@
         "isAnimatedOnScroll": true,
         "isScrollToTopButton": false,
         "isRtl": false
-      },
-      "additionalSetColors": []
+      }
     },
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.9.3",
     "siteFonts": [],
-    "uniqCompNum": 8,
-    "versionPublish": "4.9.3",
-<<<<<<< HEAD
-    "publishType": "github",
-    "gitHubName": "rylentless",
-    "gitHubPath": "",
-=======
->>>>>>> 1ae853281cdf7eadf4fb96d9dd31e2e612a17568
-    "screenshot": "screenshot.png",
-    "favicon": "@PROJECT_PATH@/assets/images/15-128x128.png",
-    "noImageResize": "",
-    "сanonical-url": ""
+    "uniqCompNum": 1,
+    "versionPublish": "4.9.3"
   },
   "pages": {
     "index.html": {
@@ -55,8 +44,8 @@
             "showTitle": true,
             "showText": true,
             "showButtons": true,
-            "showArrow": false,
-            "contentAlign": "center",
+            "showArrow": true,
+            "contentAlign": "right",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
@@ -65,17 +54,17 @@
             "bgVideoRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/embed/NA9IPA7qCb0?rel=0&amp;showinfo=0&autoplay=0&loop=0",
-              "rawUrl": "https://youtu.be/NA9IPA7qCb0?t=8",
+              "rawUrl": "https://www.youtube.com/watch?v=NA9IPA7qCb0",
               "width": 1280,
               "height": 720
             },
             "overlay": true,
             "overlayColor": "#000",
-            "overlayOpacity": "0.3"
+            "overlayOpacity": "0.6"
           },
           "title": "Map Makers Of Krunker&nbsp;",
           "text": "We are a Discord Community for Krunker Map Makers",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://discord.gg/3vVuv5X\" data-toolbar=\"-mbrBtnMove\">Join Our Discord</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://www.youtube.com/channel/UC6aSs2s5T0h_WVw1De3pFDg\" data-toolbar=\"-mbrBtnMove\">Check Out Our YouTube Channel</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://discord.gg/3vVuv5X\" data-toolbar=\"-mbrBtnMove\">Join Our Discord</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"https://www.youtube.com/channel/UC6aSs2s5T0h_WVw1De3pFDg\" data-toolbar=\"-mbrBtnMove\">Check Out Our YouTube Channel</a>",
           "_tags": [
             "Theme"
           ],
