@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "Site-02-27_1507",
+    "name": "Map Makers Of Krunker",
     "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
@@ -42,8 +42,8 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Home",
-        "meta_descr": "",
+        "title": "Map Makers Of Krunker",
+        "meta_descr": "A community for Krunker map makers",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
