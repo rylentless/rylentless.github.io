@@ -67,14 +67,19 @@
             "overlayColor": "#000",
             "overlayOpacity": "0.3"
           },
-          "title": "Map Makers Of Krunker&nbsp;",
+          "title": "Map Makers Of Krunker (MMOK)&nbsp;",
           "text": "We are a Discord Community for Krunker Map Makers",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://discord.gg/3vVuv5X\" data-toolbar=\"-mbrBtnMove\">Join Our Discord</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://www.youtube.com/channel/UC6aSs2s5T0h_WVw1De3pFDg\" data-toolbar=\"-mbrBtnMove\">Check Out Our YouTube Channel</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://discord.gg/3vVuv5X\" data-toolbar=\"-mbrBtnMove\">Join The MMOK Discord</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://www.youtube.com/channel/UC6aSs2s5T0h_WVw1De3pFDg\" data-toolbar=\"-mbrBtnMove\">Check Out Our YouTube Channel</a>",
           "_tags": [
             "Theme"
           ],
           "_name": "header4",
-          "_anchor": "header4-0"
+          "_anchor": "header4-0",
+          "_styles": {
+            ".mbr-section-title": {
+              "font-size": "60px"
+            }
+          }
         }
       ]
     },
