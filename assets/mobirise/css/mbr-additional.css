@@ -411,6 +411,9 @@ h6,
 .scrollToTop_wraper {
   display: none;
 }
+#header4-0 .mbr-section-title {
+  font-size: 60px;
+}
 #header1-7 .mbr-section-title {
   color: #000000;
 }
