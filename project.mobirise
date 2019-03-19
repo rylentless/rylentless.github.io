@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "Map Makers Of Krunker",
+    "name": "Site-02-27_1507",
     "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
@@ -25,14 +25,8 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.9.3",
     "siteFonts": [],
-    "uniqCompNum": 8,
+    "uniqCompNum": 9,
     "versionPublish": "4.9.3",
-<<<<<<< HEAD
-    "publishType": "github",
-    "gitHubName": "rylentless",
-    "gitHubPath": "",
-=======
->>>>>>> 1ae853281cdf7eadf4fb96d9dd31e2e612a17568
     "screenshot": "screenshot.png",
     "favicon": "@PROJECT_PATH@/assets/images/15-128x128.png",
     "noImageResize": "",
@@ -42,8 +36,8 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Map Makers Of Krunker",
-        "meta_descr": "A community for Krunker map makers",
+        "title": "Home",
+        "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
@@ -81,6 +75,70 @@
           ],
           "_name": "header4",
           "_anchor": "header4-0"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-lead": {
+              "color": "#fff"
+            }
+          },
+          "_params": {
+            "autoplay": true,
+            "showBullets": true,
+            "bgColor": "#fff",
+            "timeout": 5,
+            "paddingTop": 4,
+            "paddingBottom": 4,
+            "slides": [
+              {
+                "image": "@PROJECT_PATH@/assets/images/man-back.jpg",
+                "active": true,
+                "showButtons": true,
+                "showText": true,
+                "showTitle": true,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "title": "BOOTSTRAP SLIDER",
+                "overlay": true,
+                "contentAlign": "center",
+                "text": "Slide with image and solid color overlay.<br>Title, text and buttons are centered.",
+                "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR MAC</a>"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/sparklers.jpg",
+                "active": false,
+                "showButtons": true,
+                "showText": true,
+                "showTitle": true,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "title": "IMAGE SLIDER",
+                "overlay": true,
+                "contentAlign": "right",
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/bridge.jpg",
+                "active": false,
+                "showButtons": true,
+                "showText": true,
+                "showTitle": true,
+                "playVideo": true,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "title": "BACKGROUND VIDEO",
+                "overlay": true,
+                "contentAlign": "left",
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR WINDOWS</a> "
+              }
+            ]
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "slider2",
+          "_anchor": "slider2-8"
         }
       ]
     }

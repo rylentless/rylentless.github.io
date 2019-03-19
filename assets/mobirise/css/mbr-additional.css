@@ -411,3 +411,7 @@ h6,
 .scrollToTop_wraper {
   display: none;
 }
+#slider2-8 .mbr-section-title,
+#slider2-8 .mbr-section-lead {
+  color: #fff;
+}
